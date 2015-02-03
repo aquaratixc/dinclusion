@@ -10,7 +10,8 @@ After the command, the utility will create appropriate files with names file1.di
 
 # The use in the project.
 
-For use in the project file, edit the D interface files. 
+For use in the project file, edit the D interface files and replace dinclusion inserts with your names for variable in this inserts. 
+
 After editing, add command `import file1, file2, ..., fileN;` in import section of your project and compile project with following command:
 
 `dmd your_d_project file1.di file2.di .. fileN.di`
