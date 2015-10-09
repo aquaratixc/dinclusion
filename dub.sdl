@@ -1,0 +1,6 @@
+name "dinclusion"
+description "Simple file inclusion in D programs."
+copyright "Copyright © 2015, aquaratixc"
+authors "aquaratixc"
+license "ESL-1.0"
+targetType "executable"
